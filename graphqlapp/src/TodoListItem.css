@@ -1,0 +1,28 @@
+.completed {
+    text-decoration: line-through;
+}
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    font-size: 16px;
+    border-top: 1px solid lightgrey;
+    padding-top: 14px;
+    margin: 0 10px 14px 10px;
+
+}
+.trash {
+    font-weight: bold;
+    font-size: 20px;
+    cursor: pointer;
+}
+.tasks {
+    margin: 50px auto;
+    display: flex;
+    height: 800px;
+    width: 800px;
+    flex-flow: column nowrap;
+    box-shadow: 4px 5px 27px 0 rgba(34, 60, 80, 0.21);
+    border-radius: 20px;
+    transition: 0.3s;
+}

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f171ac4-f335-446e-b937-f36c68fdcc49" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resolvers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/resolvers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/typeDefs.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/typeDefs.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jXltNIcxJKZAxjbIv88jkbsPhv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f171ac4-f335-446e-b937-f36c68fdcc49" name="Default Changelist" comment="" />
+      <created>1603958530514</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603958530514</updated>
+      <workItem from="1603958531585" duration="1708000" />
+      <workItem from="1603960658912" duration="1191000" />
+      <workItem from="1603964296319" duration="4909000" />
+      <workItem from="1604062199596" duration="966000" />
+      <workItem from="1604063680951" duration="9000" />
+      <workItem from="1610980969828" duration="2502000" />
+      <workItem from="1611042075885" duration="596000" />
+      <workItem from="1611132318751" duration="896000" />
+      <workItem from="1612520414683" duration="3825000" />
+      <workItem from="1612621875064" duration="1927000" />
+      <workItem from="1612682140805" duration="965000" />
+      <workItem from="1618846317959" duration="2304000" />
+      <workItem from="1618848885401" duration="313000" />
+      <workItem from="1618849577000" duration="315000" />
+      <workItem from="1618850231933" duration="442000" />
+      <workItem from="1618850988525" duration="341000" />
+      <workItem from="1620682626596" duration="270000" />
+      <workItem from="1622800908428" duration="259000" />
+      <workItem from="1622805731657" duration="1229000" />
+      <workItem from="1622816594435" duration="2092000" />
+      <workItem from="1622963755672" duration="251000" />
+      <workItem from="1622965790691" duration="14917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3026" y="274" key="FileChooserDialogImpl" timestamp="1622964007990">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3026" y="274" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1622964007990" />
+  </component>
+</project>
